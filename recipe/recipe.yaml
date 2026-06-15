@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.1"
+  version: "0.2.2"
 
 package:
   name: jupyter-plainb
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jupyter-plainb/jupyter_plainb-${{ version }}.tar.gz
-  sha256: e19282d3db327510c2ff1ad262b0aee6f91be00d4448e2fe33b656ec11b8bc5b
+  sha256: 824d1d129a034032580138e7b5707556471e44bc5aba2e1b0600a2a9f4a596f3
 
 build:
   number: 0
